@@ -1,1 +1,2 @@
 # exploratory_data_analysis_on_911_calls
+The "Exploratory Data Analysis of 911 Calls Dataset" project aims to analyze and gain insights from a dataset containing emergency calls made to 911 services. This dataset typically includes information such as the type of emergency, location, timestamp, and other relevant details. Through exploratory data analysis (EDA), we delve into the dataset to understand patterns, trends, and correlations within the data.
